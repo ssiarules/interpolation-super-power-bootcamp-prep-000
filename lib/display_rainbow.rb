@@ -5,6 +5,7 @@ def
   puts #{colors[0]} 
 end
 
+("R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet)
 
 
 
